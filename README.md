@@ -14,3 +14,4 @@ Private sales demos prepared by Nordlicht Studio. These pages are proposals base
 - [AnaMiRa — Zürich](anamira-zuerich/index.html)
 - [Lulu — Zürich](lulu-zuerich/index.html)
 - [Rosaly's — Zürich](rosalys-zuerich/index.html)
+- [Shangrila Tibet — Zürich](shangrila-tibet-zuerich/index.html)
