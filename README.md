@@ -17,3 +17,4 @@ Private sales demos prepared by Nordlicht Studio. These pages are proposals base
 - [Shangrila Tibet — Zürich](shangrila-tibet-zuerich/index.html)
 - [Bü’s Hopfenau — Zürich](bues-hopfenau-zuerich/index.html)
 - [drinx Bar — Zürich](drinx-bar-zuerich/index.html)
+- [Swaad — Zürich](swaad-zuerich/index.html)
