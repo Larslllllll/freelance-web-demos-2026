@@ -21,3 +21,6 @@ Private sales demos prepared by Nordlicht Studio. These pages are proposals base
 
 - [Nordlicht Studio — Übersicht und Kontakt](kontakt.html)
 - [Restaurant Grünwald — Zürich](gruenwald-zuerich/index.html)
+
+- [Impressum template](impressum-template.html)
+- [Datenschutz template](datenschutz-template.html)
