@@ -13,3 +13,4 @@ Private sales demos prepared by Nordlicht Studio. These pages are proposals base
 - [yume ramen — Zürich](yume-ramen-zuerich/index.html)
 - [AnaMiRa — Zürich](anamira-zuerich/index.html)
 - [Lulu — Zürich](lulu-zuerich/index.html)
+- [Rosaly's — Zürich](rosalys-zuerich/index.html)
