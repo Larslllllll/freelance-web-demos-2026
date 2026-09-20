@@ -12,3 +12,4 @@ Private sales demos prepared by Nordlicht Studio. These pages are proposals base
 - [Taverne da Angelo — Zürich](taverne-da-angelo-zuerich/index.html)
 - [yume ramen — Zürich](yume-ramen-zuerich/index.html)
 - [AnaMiRa — Zürich](anamira-zuerich/index.html)
+- [Lulu — Zürich](lulu-zuerich/index.html)
