@@ -15,3 +15,4 @@ Private sales demos prepared by Nordlicht Studio. These pages are proposals base
 - [Lulu — Zürich](lulu-zuerich/index.html)
 - [Rosaly's — Zürich](rosalys-zuerich/index.html)
 - [Shangrila Tibet — Zürich](shangrila-tibet-zuerich/index.html)
+- [Bü’s Hopfenau — Zürich](bues-hopfenau-zuerich/index.html)
