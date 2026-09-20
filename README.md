@@ -9,3 +9,4 @@ Private sales demos prepared by Nordlicht Studio. These pages are proposals base
 - [Coiffeur Flavita — Samedan](coiffeur-flavita-samedan/index.html)
 - [Hotz Gärtnerei — Würenlos](hotz-gaertnerei-wuerenlos/index.html)
 - [Légère — Zürich](legere-zuerich/index.html)
+- [Taverne da Angelo — Zürich](taverne-da-angelo-zuerich/index.html)
